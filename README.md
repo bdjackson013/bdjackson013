@@ -1,4 +1,4 @@
- <h2 align="left">Hi 👋! My name is Brooklyn Jackson and I'm a front-end developer, from North Carolina.</h2>
+ <h2 align="left">Hi 👋! My name is Brooklyn Jackson and I'm a front-end developer.</h2>
 
 ###
 
