@@ -1,4 +1,4 @@
- <h2 align="left">Hi 👋! My name is Brooklyn Jackson and I'm a front-end developer.</h2>
+ <h2 align="left">Hi 👋! My name is Brooklyn Jackson, and I'm a front-end developer.</h2>
 
 ###
 
@@ -23,7 +23,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://giphy.com/gifs/hamster-cute-computer-13n7XTillyMQi4
+" />
 
 ###
 
@@ -55,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bdjackson013/bdjackson013/output/snake.svg" alt="Snake animation" />
+
 
 ###
