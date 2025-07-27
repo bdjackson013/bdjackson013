@@ -18,6 +18,7 @@
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
+<p align="center">I'm a passionate developer with a love for creating dynamic and user-friendly web applications. My journey in tech has been fueled by curiosity and a desire to solve real-world problems through code.</p>
 
 ###
 
@@ -90,10 +91,12 @@
 ###
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=bdjackson013&theme=prussian&hide_border=false"/>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
-  
+   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
+    <br>
+   <img src ="https://github-readme-stats.vercel.app/api?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
+    <br>
+   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=bdjackson013&theme=prussian&hide_border=false"/>
+   <br>
 </div>
 
 ###
