@@ -17,15 +17,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Brooklyn from North Carolina.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning React and Vue.<br>- ⚡ In my free time, I like to draw and animate characters or places.</p>
+<p align="center">I'm Brooklyn from North Carolina.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning React and Vue.<br>- ⚡ In my free time, I like to draw and animate characters or places.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
