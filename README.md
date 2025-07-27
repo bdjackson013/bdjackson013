@@ -1,30 +1,28 @@
 <div align="center">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/5ccdb6eeb91449580563d995/1557865892965-7RSNG8NYTJ891A2W6SIM/ComputerCat_06.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brooklyn-jackson" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-</a>
-  <a href="https://mail.google.com/a/brooklynjacks2213.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hiya! Welcome to My Github!👋</h1>
+<h1 align="center">Hi, I'm Brooklyn!👋</h1>
+<p align="center">Welcome to my Github profile repository!</p>
+<p align="center">Here you'll find configuration files and a showcase of my work, 
+interests, and current learning journey.</p>
 
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
-<p align="center">I'm a passionate developer with a love for creating dynamic and user-friendly web applications. My journey in tech has been fueled by curiosity and a desire to solve real-world problems through code.</p>
+<div align="center">
+    <div style="margin-bottom: 2px;">Location: North Carolina, USA</div>
+    <div style="margin-bottom: 2px;">Role: Full Stack Developer</div>
+    <div style="margin-bottom: 2px;">Learning: React, Vue.js, and new programming languages</div>
+    <div style="margin-bottom: 2px;">Hobbies: Drawing, animating, and language learning</div>
+</div>
+
+
 
 ###
 
-<p align="center">I'm Brooklyn from North Carolina.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning React and Vue.<br>- ⚡ In my free time, I like to draw and animate characters or places.</p>
 
 ###
 
@@ -93,6 +91,7 @@
 ###
 
 <div align="center">
+  <h2>Github Stats</h2>
    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
     <br>
    <img src ="https://github-readme-stats.vercel.app/api?username=bdjackson013&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
@@ -102,3 +101,28 @@
 </div>
 
 ###
+
+<div align="center">
+  <h2>Connect With Me</h2>
+  <a href="https://www.linkedin.com/in/brooklyn-jackson" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+</a>
+  <a href="mailto:brooklynjacks2213@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+<div align="left">
+  <h2>Featured Projects</h2>
+    <ol>
+      <li>Kingdom Hearts Lore (https://github.com/bdjackson013/Kingdom-Hearts-Lore):
+        Kingdom Hearts lore that is shown in an easier manner in a form of using a website.
+      </li>
+    </ol>
+</div>
+
+###
+<div align="left">
+  <p>*Thanks for visiting my profile! Feel free to explore my repositories 
+    and reach out if you'd like to connect or collaborate.*</p>
